@@ -1,0 +1,14 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    color:#228b22;
+}
